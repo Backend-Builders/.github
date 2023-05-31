@@ -2,19 +2,9 @@
 
 Welcome!
 
-Backend Builder is a user-friendly CLI tool in Node.js that generates backend application boilerplates. Perfect for developers entering the career and preparing for technical interviews, it simplifies project setup with a simple and intuitive interface. Say goodbye to time-consuming setup tasks and hello to efficient development.
+[Backend Builder](https://github.com/Backend-Builders/backend-builder) is a user-friendly CLI tool in Node.js that generates backend application boilerplates. Perfect for developers entering the career and preparing for technical interviews, it simplifies project setup with a simple and intuitive interface. Say goodbye to time-consuming setup tasks and hello to efficient development.
 
-## Key Features
-
-- Quick and easy installation process.
-- Intuitive and straightforward CLI interactions.
-- Generates standardized boilerplates for backend applications.
-- Provides a solid foundation for your projects, enabling you to focus on your unique functionalities.
-- Built with Node.js to leverage its powerful ecosystem and ensure cross-platform compatibility.
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+Happy coding!
 
 ## Team
 
@@ -24,6 +14,8 @@ Backend Builder is a user-friendly CLI tool in Node.js that generates backend ap
 - Ricardo do Nascimento Anjos (Contributor) - [GitHub](https://github.com/coderick137) | [LinkedIn](https://www.linkedin.com/in/ricardoanjosn/)
 - Walter Tadeu Frazão (Contributor) - [GitHub](https://github.com/WalterTNFC) | [LinkedIn](https://www.linkedin.com/in/walter-tadeu-neves-da-costa/)
 
+See the entire list of contributors [here](https://github.com/Backend-Builders/backend-builder/graphs/contributors).
+
 ## Acknowledgements
 
 - Renan Oliveira (Founder) - [GitHub](https://github.com/ren4ndev) | [LinkedIn](https://www.linkedin.com/in/renancoliveira/)
@@ -32,9 +24,11 @@ Backend Builder is a user-friendly CLI tool in Node.js that generates backend ap
 
 Contributions are always welcome!
 
-See [CONTRIBUTING.md]() for ways to get started.
+See [CONTRIBUTING.md](https://github.com/Backend-Builders/backend-builder/blob/main/docs/CONTRIBUTING.md) for ways to get started.
 
-Please adhere to this project's [Code of Conduct]().
+Please adhere to this project's [Code of Conduct](https://github.com/Backend-Builders/backend-builder/blob/main/docs/CODE_OF_CONDUCT.md).
+
+Translations of these documents can be found [here](https://github.com/Backend-Builders/backend-builder/tree/main/docs/translations).
 
 ## Support
 
